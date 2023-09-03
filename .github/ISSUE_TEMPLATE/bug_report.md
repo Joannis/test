@@ -4,7 +4,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - octocat
+  - joannis
 body:
   - type: markdown
     attributes:
