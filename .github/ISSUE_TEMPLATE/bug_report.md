@@ -1,6 +1,7 @@
 ---
 name: Bug Report
 description: File a bug report
+about: Create a report to help us improve
 title: "[Bug]: "
 assignees:
   - joannis
